@@ -10,7 +10,9 @@
 Bu atölye eğitimi için izlediğim yol:
 
 1-Teorik anlatım (sunum) 
+
 2- Pratik (orada kod yazıp açıklamam)
+
 3-Workshop (5 farklı senaryo için atölye eğitimine gelen arkadaşlara case vermem)
 
 
